@@ -1,5 +1,3 @@
-test\
-test2\
-test3\
-test4\
-test5
+First_repo\
+Pentru curs!\
+Nu contine nimic interesant
